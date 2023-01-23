@@ -17,7 +17,7 @@ It can be bought
 
 or
 
-[as a set completely assembled including motor](https://amzn.to/3R8lnhN)
+[as a set completely assembled including motor](https://amzn.to/3J9w4yF)
 
 ## Usage
 
