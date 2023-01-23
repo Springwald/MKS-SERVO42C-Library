@@ -6,8 +6,10 @@ Control MKSServo42c Servos via serial port and dotnet
 
 The MKS SERVO42C PCBA is a Nema 17 stepper motor, 32bit ARM Servo Close Loop SMT32 Controller.
 
-<img src="images/Mks1.jpg" style="width:40%; margin:1em;">
-<img src="images/Mks2.jpg" style="width:40%; margin:1em;">
+<p float="left">
+    <img src="images/Mks1.jpg" style="width:40%; margin:1em;">
+    <img src="images/Mks2.jpg" style="width:40%; margin:1em;">
+<p>
 
 It can be bought 
 
